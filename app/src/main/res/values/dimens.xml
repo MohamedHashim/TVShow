@@ -1,0 +1,34 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">12dp</dimen>
+    <dimen name="activity_vertical_margin">12dp</dimen>
+    <dimen name="nav_header_vertical_spacing">12dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="login_horizontal_margin">26dp</dimen>
+    <dimen name="login_top_fields_margin">20dp</dimen>
+    <dimen name="register_profile_horizontal_margin">16dp</dimen>
+    <!-- Text Sizes -->
+    <dimen name="text_size_large">22dp</dimen>
+    <dimen name="textsize_16sp">16sp</dimen>
+    <dimen name="textsize_14sp">14sp</dimen>
+    <dimen name="textsize_18sp">18sp</dimen>
+    <dimen name="textsize_20sp">20sp</dimen>
+    <dimen name="textsize_12sp">12sp</dimen>
+    <dimen name="textsize_10sp">10sp</dimen>
+
+    <!-- Custom Margins -->
+    <dimen name="margin_30dp">30dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+
+    <dimen name="options_image_size">80dp</dimen>
+
+    <dimen name="login_fields_height">40dp</dimen>
+
+    <dimen name="progressbar_height_width">50dp</dimen>
+
+</resources>

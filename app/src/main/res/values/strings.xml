@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NFC TV</string>
+    <string name="title_activity_login">NFC TV</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="forget"> <u>Forget Password?</u></string>
+    <string name="scan_qr_text">Scan QR Code...</string>
+    <string name="scan_nfc_text">Scan NFC Card...</string>
+    <string name="scan_nfc_tag">Scan NFC Tag...</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="aboutus1">Established in Creative City – Fujairah – UAE under the Law (4) of the Year (2007) in respect to the Media Free Zone Laws in the Emirate of Fujairah, License NO. 6546/2015 P.O. Box 4422, Fujairah, UAE</string>
+    <string name="aboutus2">NFC FZ LLE focus on creative solutions using Near Field Communication (NFC) and Radio Frequency Identification (RFID)</string>
+    <string name="aboutus3">We are inspired by H.H. Shaikh Mohamed Ben Rashid Vision to build Smart City and we are eager to be part of this vision and help and provide smart solutions for government and private sectors.</string>
+    <string name="msg">Please enable all permission</string>
+    <string name="total_cost">Total : %1$d %2$s</string>
+    <string name="price_cost">%1$d %2$s</string>
+    <string name="currency">%1$s / H</string>
+    <string name="email_request">Do you want to send the receipt on mail?</string>
+</resources>
